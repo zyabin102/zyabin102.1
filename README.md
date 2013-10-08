@@ -23,5 +23,5 @@ Share moments, share zyabin102.1.
 ## Credits
 - [Sloganizer][1] for generating our tagline
 
-[1]: http://www.sloganizer.net/in
+[1]: http://www.sloganizer.net/en
 [2]: LICENSE
